@@ -1,6 +1,5 @@
-Estudante de ciência da computação em busca de oportunidades e colaboração em projetos relacionados a 
-- 🔭 Atualmente estou trabalhando em projetos de automação web ciência de dados com python
-- 🤝 Estou procurando colaborar em projetos de ciência de dados e automação web.
+Estudante de ciência da computação em busca de oportunidades e colaboração em projetos python.
+- 🔭 Atualmente estou trabalhando em projetos de Automação Web e Data Science com python.
 - 👨‍💻 Desenvolvedor back-end python, aprendendo mais sobre front com objetivo de me tornar fullstack.
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ThiagoF)
 
