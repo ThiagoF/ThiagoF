@@ -11,5 +11,7 @@ I am computer science graduate looking for opportunities and collabaration in pr
 
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+
+            <i class="devicon-visualstudio-plain-wordmark colored"></i>
+          
           
