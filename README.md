@@ -4,9 +4,9 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ThiagoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/ThiagoFx00)   [<img src =      "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/otherthiago/)   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thiago-vasconcelos-a4634a217/)  <br>
 
-<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--QaIvLaYv--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png"/> <img src= "https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/> <img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--KGACfmZ6--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/130/bug-smash-badge.png"/>
+
+<img align ="center" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--QaIvLaYv--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png"/> <img align= "center" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/> <img src ="https://res.cloudinary.com/practicaldev/image/fetch/s--KGACfmZ6--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/130/bug-smash-badge.png"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
