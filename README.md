@@ -8,6 +8,7 @@
 
 <img align ="center" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--QaIvLaYv--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png"/> <img align= "center" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/> <img align= "center" src ="https://res.cloudinary.com/practicaldev/image/fetch/s--KGACfmZ6--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/130/bug-smash-badge.png"/>
 <div style="display: inline_block"><br>
+  <img align ="center" src = "https://res.cloudinary.com/practicaldev/image/fetch/s--QaIvLaYv--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/25/c-sticker.png"/>
   <img align="center" alt="David-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
