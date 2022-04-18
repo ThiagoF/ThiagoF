@@ -1,5 +1,5 @@
 - 👨‍ Estudante de ciência da computação em busca de oportunidades e colaboração em projetos python.
-- 🔭 Atualmente estou trabalhando em projetos de Automação Web e Data Science com python.
+- 🔭 Atualmente trabalhando em projetos de Automação Web e Data Science com python.
 - 👨‍💻 Desenvolvedor back-end python, aprendendo mais sobre front com objetivo de me tornar fullstack.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ThiagoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
@@ -17,6 +17,7 @@
   <img align="center" alt="David-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
   <img align="center" alt="David-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <br>
   <img align= "center" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/>
   <img align="center" alt="David-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
   <img align="center" alt="David-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
