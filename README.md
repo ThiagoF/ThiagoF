@@ -1,4 +1,4 @@
-- 👨‍ Estudante de ciência da computação em busca de oportunidades e colaboração em projetos python.
+- 👨‍ Cientista da computação em busca de oportunidades e colaboração em projetos python.
 - 🔭 Atualmente trabalhando em projetos de Automação Web e Data Science com python.
 - 👨‍💻 Desenvolvedor back-end python, aprendendo mais sobre front com objetivo de me tornar fullstack.
 
