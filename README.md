@@ -2,7 +2,7 @@
 - 🔭 Atualmente trabalhando em projetos de Automação Web e Data Science com python.
 - 👨‍💻 Desenvolvedor back-end python, aprendendo mais sobre front com objetivo de me tornar fullstack.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ThiagoF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username={ThiagoF}&theme=blue-green)
 
 
 
