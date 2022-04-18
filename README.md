@@ -8,8 +8,8 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="David-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align= "center" src ="https://res.cloudinary.com/practicaldev/image/fetch/s--KGACfmZ6--/c_limit,f_auto,fl_progressive,q_30,w_40/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/130/bug-smash-badge.png"/>
+  <img align="center" alt="David-Canvas" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align= "center" src ="https://res.cloudinary.com/practicaldev/image/fetch/s--KGACfmZ6--/c_limit,f_auto,fl_progressive,q_50,w_70/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/130/bug-smash-badge.png"/>
   <img align="center" alt="David-Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="David-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="David-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
