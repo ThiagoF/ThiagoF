@@ -1,7 +1,6 @@
-- 👨‍ Cientista da computação em busca de oportunidades e colaboração em projetos python.
-- 🔭 Atualmente trabalhando em projetos de Automação Web e Data Science com python.
-- 👨‍💻 Desenvolvedor back-end python, aprendendo mais sobre front com objetivo de me tornar fullstack.
-
+- 👨‍ Analista e desenvolvedor de Sistemas em busca de oportunidades e colaboração em projetos.
+- 🔭 Atualmente trabalhando em projetos de Automação Web, Machine Learning e Data Science.
+- 👨‍💻 Desenvolvedor back-end python, java e c++.
 
   <a href="https://github.com/ThiagoF">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoF&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -18,14 +17,13 @@
   <img align="center" alt="David-React" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   
   
-  <img align="center" alt="David-HTML" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="David-CSS" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="David-Js" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="David-figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
   
   <br>
   
-   <img align="center" alt="David-figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" />
-  <img align="center" alt="David-figma" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   
+  
   
   <img align= "center" src= "https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_40,w_60/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png"/>
   <img align="center" alt="David-Github" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
