@@ -1,5 +1,5 @@
 - 👨‍ Analista e desenvolvedor de Sistemas em busca de oportunidades e colaboração em projetos.
-- 🔭 Atualmente trabalhando em projetos de Automação Web, Machine Learning e Data Science.
+- 🔭 Atualmente trabalhando em projetos de Machine Learning, Automação Web, Automação de testes, JAVA (JPA), Software Testing.
 - 👨‍💻 Desenvolvedor back-end python, java e c++.
 
   <a href="https://github.com/ThiagoF">
